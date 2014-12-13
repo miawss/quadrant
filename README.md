@@ -4,8 +4,10 @@ Quadrant Chat 象限圖模組 for D3.js
 Demo
 ----
 
-1.[BCG Matrix](http://miawss.github.io/quadrant/demo_bcg_matrix.html)<br />  
-2.[App Engagement ](http://miawss.github.io/quadrant/demo_loyalty_app.html)<br /> 
+Defult Page(http://miawss.github.io/quadrant/quadrant_default.html) <br />  
+
+1.[BCG Matrix](http://miawss.github.io/quadrant/demo_bcg_matrix.html) <br />  
+2.[App Engagement](http://miawss.github.io/quadrant/demo_loyalty_app.html)<br /> 
 3.[YOY Predictions](http://miawss.github.io/quadrant/demo_yoy.html)<br /> 
 
 [Default Variable]

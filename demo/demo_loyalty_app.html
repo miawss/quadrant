@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head >
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/quadrant.js"></script>
+</head>
+<body>
+
+<div style="margin-left:25%;margin-bottom:-30px;font-size:120%;color:#222299;">
+	App Engagement: The Matrix Reloaded
+</div>
+
+<div id="graph" style="width: 1000px; height: 600px;"></div>
+
+<div style="margin-left:50px">
+Data Source : <a href="http://goo.gl/fqvir8">http://goo.gl/fqvir8</a>
+
+</div>
+
+<script>
+
+url_data_source = "demo_loyalty_app.csv"
+x_grid = 4;
+y_grid = 4;
+watermarking_RT = "I";
+watermarking_LT = "II";
+watermarking_LB = "III";
+watermarking_RB = "IV";
+watermarking_fontsize = "100px";
+watermarking_opacity = 0.1;
+
+x_label = ['15%', '20%', '25%', '30%', '35%', '40%', '45%', '50%', '55%'];
+y_label = [ '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+x_desc = 'Rentenion over 90 days';
+y_desc = 'Frequency of use per week';
+
+d3_quadrant();
+
+</script>
+
+
+</body>
+
+</html>

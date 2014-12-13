@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head >
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/quadrant.js"></script>
+</head>
+<body>
+
+<div style="margin-left:200px;margin-bottom:-30px;font-size:120%">
+	2015 Market Size And YOY Predictions
+</div>
+
+<div id="graph" style="width: 800px; height: 500px;"></div>
+
+<script>
+
+url_data_source = "demo_yoy.csv"
+
+x_grid = 2;
+y_grid = 1;
+visible_watermarking = false
+visible_axis = false
+
+x_label = ['','' ,'低'];
+y_label = [ '高','', '低'];
+x_desc = '低成長率　　　　　　　　　　　中成長率　　　　　　　　　　　高成長率';
+y_desc = '(小)　市場規模　(大) ';
+
+d3_quadrant();
+
+</script>
+
+</body>
+
+</html>

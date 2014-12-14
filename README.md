@@ -4,7 +4,7 @@ Quadrant Chat 象限圖模組 for D3.js
 Demo
 ----
 
-[Defult Page](http://miawss.github.io/quadrant/quadrant_default.html)<br />  
+[Defult Page](http://goo.gl/iUlPpn)<br />  
 
 1.[BCG Matrix](http://goo.gl/q1MsYp)<br />
 2.[App Engagement](http://goo.gl/NHLWFq)<br />

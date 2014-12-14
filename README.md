@@ -16,8 +16,16 @@ Demo
 
 [HTML]
 ####
+
+		<head > // include 2 js file at tag:<head>
+		//...
+		<script type="text/javascript" src="js/d3.js"></script>
+		<script type="text/javascript" src="js/quadrant.js"></script>
+		//...
+		</head>
+ 
+		//insert <div>  and  id="graph" (unmodifiable)
 		<div id="graph" style="width: 800px; height: 600px;"></div>
-		// id : "graph" (unmodifiable)
 
 [Script]
 ####

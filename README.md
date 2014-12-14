@@ -16,12 +16,19 @@ Demo
 
 [HTML]
 ####
+		<div id="graph" style="width: 800px; height: 600px;"></div>
+		// id : "graph" (unmodifiable)
+
+[Script]
+####
+
+		<script>
 		url_data_source = "quadrant_default.csv" //(required)
 		// .. Setting Variable
 		// .. Setting Parameter
-		 
+
 		d3_quadrant(); //(last line)
-  
+  		</script>
 
 [Default Variable]
 ####

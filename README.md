@@ -6,13 +6,13 @@ Demo
 
 [Defult Page](http://miawss.github.io/quadrant/quadrant_default.html)<br />  
 
-1.[BCG Matrix](http://miawss.github.io/quadrant/demo_bcg_matrix.html)<br />  
-2.[App Engagement](http://miawss.github.io/quadrant/demo_loyalty_app.html)<br /> 
-3.[YOY Predictions](http://miawss.github.io/quadrant/demo_yoy.html)<br /> 
+1.[BCG Matrix](http://goo.gl/q1MsYp)<br />
+2.[App Engagement](http://goo.gl/NHLWFq)<br />
+3.[YOY Predictions](http://goo.gl/kY2YBq)<br />
 
-[![image]](http://miawss.github.io/quadrant/demo_bcg_matrix.html)  
-[image]: http://miawss.github.io/quadrant/bcg_matrix.png "bcg_matrix"  
-
+[![image]](http://goo.gl/q1MsYp)
+[image]: http://goo.gl/Gt5ZVU "bcg_matrix"
+ 
 [Default Variable]
 ####
 

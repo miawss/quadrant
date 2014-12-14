@@ -10,6 +10,9 @@ Demo
 2.[App Engagement](http://miawss.github.io/quadrant/demo_loyalty_app.html)<br /> 
 3.[YOY Predictions](http://miawss.github.io/quadrant/demo_yoy.html)<br /> 
 
+[![image]](http://miawss.github.io/quadrant/demo_bcg_matrix.html)  
+[image]: http://miawss.github.io/quadrant/bcg_matrix.png "bcg_matrix"  
+
 [Default Variable]
 ####
 

@@ -17,8 +17,12 @@ Demo
 [HTML]
 ####
 		url_data_source = "quadrant_default.csv" //(required)
+		// .. Setting Variable
+		// .. Setting Parameter
+		 
 		d3_quadrant(); //(last line)
- 
+  
+
 [Default Variable]
 ####
 
